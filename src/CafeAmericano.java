@@ -1,12 +1,12 @@
-public class Expreso implements Cafe {
+public class CafeAmericano implements Cafe {
 
     @Override
     public String getDescrpcion() {
-        return "Expreso";
+        return "Cafe Americano";
     }
 
     @Override
     public double getCosto() {
-        return 5.0;
+        return 4.0;
     }
 }
