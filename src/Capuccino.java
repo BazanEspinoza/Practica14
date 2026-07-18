@@ -1,5 +1,4 @@
-public class Capuccino implements  Cafe {
-
+public class Capuccino implements Cafe {
 
     @Override
     public String getDescrpcion() {
