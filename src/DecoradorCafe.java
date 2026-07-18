@@ -14,6 +14,4 @@ public abstract class DecoradorCafe implements Cafe {
     public double getCosto() {
         return cafe.getCosto();
     }
-
-
 }
