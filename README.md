@@ -15,4 +15,4 @@ Se ha implementado el caso de venta en linea de una Cafeteria que contiene las s
 - Main
 
 Diagrama: 
-![Diagrama del patron decorator](imagen/Diagrama14.png)
+![Diagrama del patron decorator](imagen/Diagrama014.png)
