@@ -1,7 +1,18 @@
 # Practica Lab14
 
-Elaboracion del patron Decorator con la implementacion de una tienda de cafe en linea
+Elaboración del patron Decorator con la implementacion de una tienda de cafe en linea
 
-## Descripcion:
-Clase main: CafeMain 
-Clases: 
+## Descripción:
+Se ha implementado el caso de venta en linea de una Cafeteria que contiene las siguientes clases:
+
+- Cafe (interfaz)
+- Expreso
+- Capuccino
+- CafeAmericano
+- DecoradorCafe
+- Caramelo
+- Chocolate 
+- Main
+
+Diagrama: 
+![Diagrama del patron decorator](imagen/Diagrama14.png)
